@@ -9,7 +9,9 @@
 <br />
 <!-- about me -->
 <p align="center">
-  Ola, Sou Guilherme Almeida, Desenvolvedor Front-End 💻, Técnico em Telecomunicações 👨‍💻 & T.I do Brasil. 
+  Ola, Sou Guilherme Almeida, Desenvolvedor Front-End 💻, Técnico em Telecomunicações 👨‍💻 & T.I.
+  <br/>
+  Deste 2012 ate presente data Trabalhando em Telecomunicações para uma das Maiores Operadoras Claro Brasil S.A
   <br/>
   (☞⌐▀͡ ͜ʖ͡▀ )☞
   <br />
