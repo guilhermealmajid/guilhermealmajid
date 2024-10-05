@@ -1,11 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=Seja+Bem+Vindo(a)!;Desenvolvimento+Front-End...;com+mais+recentes+tecnologias+)](https://git.io/typing-svg)
 <!-- profile view count -->
 <img align="right" src="https://komarev.com/ghpvc/?username=sanidhyy">
 
 <!-- introduction -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Sanidhya!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Ei, Aqui!👋+;+Guilherme+Desenvolvedor+FrontEnd!;&center=true&size=30">
   </a>
 </h1>
 
