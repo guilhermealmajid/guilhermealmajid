@@ -11,9 +11,12 @@
 <p align="center">
   Ola, Sou Guilherme Almeida - Natural de Uberlândia-MG, Desenvolvedor Front-End, Técnico em Telecomunicações & T.I.
   <br/>
+    <br/>
   Deste 2012 ate presente data Trabalhando 💼 em Telecomunicações para uma das Maiores Operadoras do Pais - Claro Brasil S.A ☎
+    <br/>
   <br/>
   Formação Academica em Analise e Desenvolvimento de Sistemas 💻 ,Desenvolvendo Projetos como Front-End,Paixão por Programação! 
+    <br/>
   <br/>
   Buscando impactar Experiência Usuário - UX com Front-End,com tecnologias mais recentes no Mercado Desenvolvedor.
 <br/>
