@@ -9,7 +9,7 @@
 <br />
 <!-- about me -->
 <p align="center">
-  Ola, Sou Guilherme Almeida - Natural de Uberlândia-MG, Desenvolvedor Front-End, Técnico em Telecomunicações & T.I.
+  Ola, Sou Guilherme Almeida, 44 Anos e Natural de Uberlândia-MG, Desenvolvedor Front-End, Técnico em Telecomunicações & T.I.
   <br/>
   Deste 2012 ate presente data Trabalhando 💼 em Telecomunicações para uma das Maiores Operadoras do Pais - <img src="https://github.com/user-attachments/assets/3ccf9a6e-5f75-4c2a-aa50-ce99fe8e0c5a" width="30" heigth="30">Claro Brasil S.A
   <br/>
@@ -25,6 +25,8 @@
   <br />
   💻 Apaixonado em Aprender Novas Tecnologias e aperçoamento continuo.
   <br />
+  💼 Freelancer em Desenvolvimento Web.
+  <br />
 </p>
 
 <!-- social handles -->
@@ -32,9 +34,9 @@
 <!-- youtube -->
   <a href="https://www.youtube.com/@guilhermealmajid" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <!-- twitter -->
-  <a href="https://twitter.com/technicalshubam" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a> 
+  <!--  <a href="https://twitter.com/technicalshubam" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a> -->
   <!-- gmail -->
-   <!--<a href="mailto:sanidhya.verma12345@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>-->
+   <a href="mailto:guilhermealmajid@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <!-- linkedin -->
   <a href="https://www.linkedin.com/in/sanidhyy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
