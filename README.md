@@ -1,5 +1,5 @@
 <!-- profile view count -->
-<img align="right" src="https://komarev.com/ghpvc/?username=sanidhyy">
+<img align="right" src="https://komarev.com/ghpvc/?username=guilhermealmajid ">
 
 <!-- introduction -->
 <h1 align="center">
@@ -9,8 +9,9 @@
 <br />
 <!-- about me -->
 <p align="center">
-  Ola, Sou Guilherme Almeida, Desenvolvedor Front-End 💻, Técnico em Telecomunicações 👨‍💻 & T.I do Brasil. ( ͡^ ͜ʖ ͡^ )
-  Hi, I'm Sanidhya Kumar Verma, Web Developer/Coder ,  Learner  &  gamer 🦸‍♂️ from India 🇮🇳.
+  Ola, Sou Guilherme Almeida, Desenvolvedor Front-End 💻, Técnico em Telecomunicações 👨‍💻 & T.I do Brasil. 
+  <br/>
+  (☞⌐▀͡ ͜ʖ͡▀ )☞
   <br />
   <br />
   🎓 Currently a high school student.
