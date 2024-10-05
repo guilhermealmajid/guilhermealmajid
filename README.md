@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bem+Vindo+(a)+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=Seja+Bem+Vindo(a)!;Desenvolvimento+Front-End...;com+mais+recentes+tecnologias+)](https://git.io/typing-svg)
