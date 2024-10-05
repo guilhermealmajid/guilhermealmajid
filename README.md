@@ -3,14 +3,14 @@
 
 <!-- introduction -->
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=Bem+Vindo(a)!+Sou+Guilherme+Almeida;Desenvolvedor+Front-End;Aproveite+e+me+conhe%C3%A7a+Melhor![image](https://github.com/user-attachments/assets/addddaf8-52f1-43cc-a27a-362100553129)
-" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=Bem+Vindo(a)!+Sou+Guilherme+Almeida;Desenvolvedor+Front-End;Aproveite+e+me+conhe%C3%A7a+Melhor%F0%9F%98%8E" alt="Typing SVG" /></a>
 </h1>
 
 <br />
 <!-- about me -->
 <p align="center">
-  Hi, I'm Sanidhya Kumar Verma, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳.
+  Ola, Sou Guilherme Almeida, Desenvolvedor Front-End 💻, Técnico em Telecomunicações 👨‍💻 & T.I do Brasil. ( ͡^ ͜ʖ ͡^ )
+  Hi, I'm Sanidhya Kumar Verma, Web Developer/Coder ,  Learner  &  gamer 🦸‍♂️ from India 🇮🇳.
   <br />
   <br />
   🎓 Currently a high school student.
