@@ -3,7 +3,7 @@
 
 <!-- introduction -->
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=Bem+Vindo(a)!+Sou+Guilherme+Almeida;Desenvolvedor+Front-End;Aproveite+e+me+conhe%C3%A7a+Melhor%F0%9F%98%8E" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=Bem+Vindo(a)%2C+Sou+Guilherme!+;Desenvolvedor+Front-End+%F0%9F%92%BB;Me+Conhe%C3%A7a+Melhor" alt="Typing SVG" /></a>
 </h1>
 
 <br />
@@ -11,12 +11,10 @@
 <p align="center">
   Ola, Sou Guilherme Almeida - Natural de Uberlândia-MG, Desenvolvedor Front-End, Técnico em Telecomunicações & T.I.
   <br/>
-    <br/>
   Deste 2012 ate presente data Trabalhando 💼 em Telecomunicações para uma das Maiores Operadoras do Pais - <img src="https://github.com/user-attachments/assets/3ccf9a6e-5f75-4c2a-aa50-ce99fe8e0c5a" width="30" heigth="30">Claro Brasil S.A
   <br/>
   Formação Academica em Analise e Desenvolvimento de Sistemas 💻 ,Desenvolvendo Projetos como Front-End,Paixão por Programação! 
     <br/>
-  <br/>
   Buscando impactar Experiência Usuário - UX com Front-End,com tecnologias mais recentes no Mercado Desenvolvedor.
 <br/>
   <br/>
@@ -32,11 +30,11 @@
 <!-- social handles -->
 <div align="center"> 
 <!-- youtube -->
-  <a href="https://www.youtube.com/@OPGAMER." target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@guilhermealmajid" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <!-- twitter -->
   <a href="https://twitter.com/technicalshubam" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a> 
   <!-- gmail -->
-  <a href="mailto:sanidhya.verma12345@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <!--<a href="mailto:sanidhya.verma12345@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>-->
   <!-- linkedin -->
   <a href="https://www.linkedin.com/in/sanidhyy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
