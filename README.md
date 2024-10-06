@@ -47,7 +47,7 @@
 <br />
 <p align="center">
   <a href="https://skillicons.dev">
-  
+  <picture>
           <!-- second row -->
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=dark" />
