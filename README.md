@@ -169,7 +169,7 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <!-- second row -->
-<div width="100%" align="center">
+/** <div width="100%" align="center">
 <!-- repo 3 -->
   <a align="left" href="https://github.com/sanidhyy/modern-portfolio" title="Modern Portfolio">
     <picture>
@@ -195,4 +195,4 @@
 <!-- show more repos -->
 <h4 align="center">
   <a href="https://github.com/sanidhyy?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+</h4> **/
