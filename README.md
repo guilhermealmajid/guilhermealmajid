@@ -8,8 +8,9 @@
 
 <br />
 <!-- about me -->
+<p id="result"></p>
 <p align="center">
-  Ola, Sou Guilherme Almeida, <span id="result"></span> Anos e Natural de Uberlândia-MG, Desenvolvedor Front-End, Técnico em Telecomunicações & T.I.
+  Ola, Sou Guilherme Almeida,  Anos e Natural de Uberlândia-MG, Desenvolvedor Front-End, Técnico em Telecomunicações & T.I.
   <br/>
   Deste 2012 ate presente data Trabalhando 💼 em Telecomunicações para uma das Maiores Operadoras do Pais
   <br/>
