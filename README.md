@@ -7,6 +7,30 @@
 </h1>
 
 <br />
+<script>
+        // Define the date of birth (day/month/year)
+        const birthDateString = "24/9/1979";
+
+        // Convert the string into a Date object
+        const parts = birthDateString.split("/");
+        const birthDate = new Date(parts[2], parts[1] - 1, parts[0]); // year, monthIndex (0-based), day
+
+        // Get today's date
+        const today = new Date();
+
+        // Calculate age
+        let age = today.getFullYear() - birthDate.getFullYear();
+        const monthDiff = today.getMonth() - birthDate.getMonth();
+        const dayDiff = today.getDate() - birthDate.getDate();
+
+        // Adjust if birth date hasn't occurred yet this year
+        if (monthDiff < 0 || (monthDiff === 0 && dayDiff < 0)) {
+            age--;
+        }
+
+        // Display result
+        document.getElementById("result").textContent = "Age is: " + age + " years";
+    </script>
 <!-- about me -->
 <p id="result"></p>
 <p align="center">
@@ -59,30 +83,7 @@
       
 
   </a>
-  <script>
-        // Define the date of birth (day/month/year)
-        const birthDateString = "24/9/1979";
-
-        // Convert the string into a Date object
-        const parts = birthDateString.split("/");
-        const birthDate = new Date(parts[2], parts[1] - 1, parts[0]); // year, monthIndex (0-based), day
-
-        // Get today's date
-        const today = new Date();
-
-        // Calculate age
-        let age = today.getFullYear() - birthDate.getFullYear();
-        const monthDiff = today.getMonth() - birthDate.getMonth();
-        const dayDiff = today.getDate() - birthDate.getDate();
-
-        // Adjust if birth date hasn't occurred yet this year
-        if (monthDiff < 0 || (monthDiff === 0 && dayDiff < 0)) {
-            age--;
-        }
-
-        // Display result
-        document.getElementById("result").textContent = "Age is: " + age + " years";
-    </script>
+  
 </p>
 <br />
 
