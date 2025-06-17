@@ -9,7 +9,7 @@
 <br />
 <!-- about me -->
 <p align="center">
-  Ola, Sou Guilherme Almeida, 44 Anos e Natural de Uberlândia-MG, Desenvolvedor Front-End, Técnico em Telecomunicações & T.I.
+  Ola, Sou Guilherme Almeida, <span id="result"></span> Anos e Natural de Uberlândia-MG, Desenvolvedor Front-End, Técnico em Telecomunicações & T.I.
   <br/>
   Deste 2012 ate presente data Trabalhando 💼 em Telecomunicações para uma das Maiores Operadoras do Pais
   <br/>
@@ -55,8 +55,33 @@
             <img src="https://skillicons.dev/icons?i=nodejs%2Cmongodb&theme=light" alt="skills - 2" />
             <!-- <img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=light" alt="skills - 2" />-->
         </picture>
+      
 
   </a>
+  <script>
+        // Define the date of birth (day/month/year)
+        const birthDateString = "24/9/1979";
+
+        // Convert the string into a Date object
+        const parts = birthDateString.split("/");
+        const birthDate = new Date(parts[2], parts[1] - 1, parts[0]); // year, monthIndex (0-based), day
+
+        // Get today's date
+        const today = new Date();
+
+        // Calculate age
+        let age = today.getFullYear() - birthDate.getFullYear();
+        const monthDiff = today.getMonth() - birthDate.getMonth();
+        const dayDiff = today.getDate() - birthDate.getDate();
+
+        // Adjust if birth date hasn't occurred yet this year
+        if (monthDiff < 0 || (monthDiff === 0 && dayDiff < 0)) {
+            age--;
+        }
+
+        // Display result
+        document.getElementById("result").textContent = "Age is: " + age + " years";
+    </script>
 </p>
 <br />
 
